@@ -1,13 +1,3 @@
----
-id: getting-started
-title: Getting Started
----
-
-Install Jest using your favorite package manager:
-
-```bash npm2yarn
-npm install --save-dev jest
-```
 
 Let's get started by writing a test for a hypothetical function that adds two numbers. First, create a `sum.js` file:
 
